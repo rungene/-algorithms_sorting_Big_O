@@ -157,7 +157,7 @@ Here is a quick tip to help you test your sorting algorithms with big sets of ra
 
 **0. Bubble sort**
 
-[![Watch the video](https://img.youtube.com/vi/lyZQPjUT5B4&t/default.jpg)](https://www.youtube.com/watch?v=lyZQPjUT5B4&t=1s)
+[![Watch the video](https://img.youtube.com/vi/lyZQPjUT5B4/default.jpg)](https://www.youtube.com/watch?v=lyZQPjUT5B4)
 
 Write a function that sorts an array of integers in ascending order using the [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) algorithm
 
