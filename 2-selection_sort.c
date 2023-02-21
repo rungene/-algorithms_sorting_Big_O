@@ -34,7 +34,9 @@ void selection_sort(int *array, size_t size)
 			id_min = i;
 			for (j = i + 1; j < size; j++)
 			{
+				/* if this element is less, then it is the new minimum */
 				if (array[j] < array[id_min])
+				/* found new minimum; remember its index */
 					id_min = j;
 			}
 			/*swap the found minimum element with first element*/
